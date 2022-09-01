@@ -10,7 +10,7 @@ class homedb {
         global.db = database;
     }
  
-    // #  DATABASE MODELS FOR NutriCo MAIN WEBSITE
+    // #  DATABASE MODELS FOR NutriCo MAIN WEBSITEk
     // #
     // #
     // ------------------- REGISTER SECTION-------------------
